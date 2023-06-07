@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446729718302",
+    "project_id": "cicdtesting-a867e",
+    "storage_bucket": "cicdtesting-a867e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446729718302:android:1c321f39842adce1017c0f",
+        "android_client_info": {
+          "package_name": "com.example.ci_cd_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446729718302-nrc166n5cqe0qaomoo7vhsbsbqppg90l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR4_tICIowbeW88toaW8n1XwZ35w_Qkm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446729718302-nrc166n5cqe0qaomoo7vhsbsbqppg90l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
